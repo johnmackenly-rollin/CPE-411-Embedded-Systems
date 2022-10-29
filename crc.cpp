@@ -1,4 +1,3 @@
-// C++ Program to generate CRC codeword
 #include<stdio.h>
 #include<iostream>
 #include<math.h>
